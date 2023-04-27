@@ -1,0 +1,139 @@
+#title{
+    background-color: black
+  
+  
+  
+  }
+  body{
+    font-family: 'Montserrat', sans-serif;
+    font-family:"bold";
+  }
+  .container-fluid{
+    padding: 3% 15%
+  }
+  
+  h2{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+  }
+  h1{
+    color:white;
+    font-style:italic;
+  
+    ;
+  
+  
+  }
+  .Bio{
+    font-size: 1.5rem;
+    font-style: italic;
+    color: yellow
+  }
+  
+  .navbar-brand{
+    font-style: italic;
+    font-size: 2rem
+  
+  }
+  
+  .navbar{
+    padding-bottom: 4.5rem
+  
+  }
+  .nav-item{
+    padding:0 18px
+  
+  }
+  
+  .Download-Button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:"bold";
+    margin:5% 3% 5% 0
+  }
+  
+  .title-image{
+  
+  }
+  
+  #features{
+    background-color:#EEB76B;
+    padding: 7% 15%
+  }
+  
+  .feature-box{
+    text-align: center;
+    padding: 5%
+  }
+  h3{
+  font-size: 2rem;
+  color: black;
+    font-weight: bolder;
+    padding-top: 3%
+  }
+  h4{font-size: 2rem;
+  color: white;
+  font-style: italic;
+    font-weight: bolder;
+    padding-top: 3%
+  }
+  p{
+    color: white;
+    font-size: 1.5rem;
+    font-style: italic;
+  }
+  .icon{
+    margin-bottom: 2rem
+  
+  }
+  
+  #testimonials{
+    text-align:center;
+    background-color:black;
+    color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    font-family:"bold";
+  
+  }
+  
+  .carousel-item{
+    padding: 7% 15%
+  
+  }
+  #cta{
+     text-align: center;
+     font-style: italic;
+      background-color:black;
+      color: #fff;
+      padding: 7% 15%
+      ;
+  
+  }
+  #video{
+    background-color: #EEB76B
+  }
+  #footer{
+    background-color: #152D35
+  }
+  .footer_bio {
+    color: white;
+    font-style: bold
+    line-height: 3.5;
+    font-size: 100%;
+    margin: 32px 0 0 0;
+  }
+  
+  .social_img {
+    height: 35px;
+    width: 35px;
+    margin: 10px 20px 10px 20px;
+  }
+  
+  .social_img:hover {
+    background-color: white;
+    transition: width 2s height 2s;
+  }
+  
+  #pricing{
+    padding:  7% 15%
+  }
